@@ -1,4 +1,4 @@
-const api="dV8PJA5XgaxdBcHvcuI4xjQEZGf8vA4f";
+const api="zaf1PG6f9yXOuqHNysdeiFqRCt6SkwRg";
 const weatherapi=async function(id){
     const base="http://dataservice.accuweather.com/currentconditions/v1/";
     const query=`${id}?apikey=${api}`;
